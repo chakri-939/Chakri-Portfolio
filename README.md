@@ -3,7 +3,7 @@
   <a href="https://chakri-portfolio.netlify.app/" target="_blank">chakri-portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/project-1-a7dcf9f6.png" />
+  <img alt="Demo" src="./assets/preview.png.png" />
 </div>
 
 <br/>
